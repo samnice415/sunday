@@ -1,0 +1,39 @@
+
+body{background-color: aqua;
+    color: blue;
+}
+.bd{padding-left: 160px;}
+.nv{display: flex;
+justify-content: space-between;padding: 10px;}
+li{display: inline;padding: 10px;list-style: none;
+padding-right: 50px;}
+a{ font-size: large;
+text-decoration: none;color: black;
+list-style: none;
+color: white;
+}
+a:hover{color: blue;font-size: x-large;}
+.bb{padding: 20px;font-size: x-large;padding-left: 0px;color: aqua;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+button{background-color: rgb(77, 116, 114);display: inline;
+border-radius: 50px;border-color: white;}
+.aa{color: white;}
+.boy{font-size: xxx-large;}
+.nv2{display: flex;}
+.b{background-color: rgb(77, 116, 114);}
+.d{background-color: blue;width: fit-content;}
+.car1{
+    width: fit-content;
+    height: fit-content;
+}
+.car2{
+    width:fit-content;
+    height: fit-content;
+}
+.car3{
+    width:fit-content;
+    height: fit-content;
+}
+.md{
+    display: flex;
+}
